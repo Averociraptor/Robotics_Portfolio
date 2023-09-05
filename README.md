@@ -4,4 +4,6 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
+![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
+
 ![Diagram](
