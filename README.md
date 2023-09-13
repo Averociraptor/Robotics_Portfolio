@@ -8,6 +8,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/8/2023 9:30 AM, I need to work on the gearing system to mount the 2 motors for propelling the machine. Once I get that done I can work on either improving the drive shaft by cutting it down and hoping that solves the problem of it being unstable, or entirely replacing that axle with a new stable one. my current plan after that consists of just having a 1:1 gear ratio coming off the output axle to power the rear wheels. I see one main problem with the rear axle the way I plan to have it, but it could be fixed by using 2 axles and 2 outputs off the transmission. The problem I see at the moment is the lack of any plan to have a rear differential to allow for better steering. The frame of the car is already very wide so I'm going to have to come up with a way to mount the wheels and axles, or instead of having them on the outside of the robot, we instead have them on the inside. this is just something I'm going to have to figure out how to do on Tuesday next week, 9/12/2023
 
+9/12/2023 *doing this a bit later* 6:13 PM, Unfortunately, it took me way longer than I had hoped to mount both motors to the transmission, so on 9/14/2023 ill have to mount the transmission somehow and build a differential or attach 2 different axles somehow.
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
@@ -16,4 +18,6 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 ![Operation-Video](https://youtu.be/obedb8HNvTE?si=c3B1iHHwUU4Q1qLj)
 
-![Diagram](
+![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/bot1.jpg?raw=true)
+
+
