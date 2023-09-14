@@ -10,6 +10,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/12/2023 *doing this a bit later* 6:13 PM, Unfortunately, it took me way longer than I had hoped to mount both motors to the transmission, so on 9/14/2023 ill have to mount the transmission somehow and build a differential or attach 2 different axles somehow.
 
+9/14/2023 *doing this earlier today* 7:47 AM, Today my current goal is to at least mount the brain, battery, and transmission. After that, I want to wire everything and work with a teammate to program the second motor. If I still have time after that I'm going to spend the rest of the class thinking and maybe building prototype parts for the output system from the transmission. When I have a design set out I can begin building or prototyping that system. Once  feel confident with the design I can work on putting it on the robot.
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
