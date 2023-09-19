@@ -14,7 +14,7 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/19/2023 7:34 AM, I've quickly and honestly shoddily built an output from the transmission to one wheel as a demonstration of the idea that it works. Also what I need to do today is to finish the rear axle, where I've decided I don't want to try to build/design a differential so it's going to be a solid axle. On top of that Matt *the programmer* needs to reverse the motor's programmed direction so that pushing the stick forward drives the wheel forward. I also need to add a tensioner to the chain that is actively driving the axle. This is all going to be determined based on the time Matt takes to program, and how long it takes me to build the tensioner and to stabilize both the transmission and drive axles.
 
-9/19/2023 11:54 AM, Forgot to mention this, the tensioner is going to be a very small sprocket on an axle that's held by a panel that is mobile, on the other side of the drive chain is going to be a solid mounting for rubber bands to go from the sprocket to the other side in order to keep the chain tense so it wont shake off 
+9/19/2023 11:54 AM, Forgot to mention this, the tensioner is going to be a very small sprocket on an axle that's held by a panel that is mobile, on the other side of the drive chain is going to be a solid mounting for rubber bands to go from the sprocket to the other side in order to keep the chain tense so it won't shake off. The Axles are going to be stabilized very simply, literally consisting of a C-bar and a pillow block.
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
