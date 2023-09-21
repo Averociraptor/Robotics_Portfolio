@@ -16,6 +16,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/19/2023 11:54 AM, Forgot to mention this, the tensioner is going to be a very small sprocket on an axle that's held by a panel that is mobile, on the other side of the drive chain is going to be a solid mounting for rubber bands to go from the sprocket to the other side in order to keep the chain tense so it won't shake off. The Axles are going to be stabilized very simply, literally consisting of a C-bar and a pillow block.
 
+9/21/2023 8:30 AM, Decided a tensioner was unnecessary after stabilizing the axles. I also added the second wheel and finished the solid axle. We did a speed test in the halls 2 days ago and it worked until the battery ran too low and the single motor could no longer overcome the torque of the second gear. Now I have charged the battery fully and added a second motor. This won't increase speed or velocity but it will affect first-gear torque and second-gear acceleration. Today we will do a second speed test to attempt to find its top speed, which means we might need to borrow a radar gun from one of the physics teachers. In terms of tooling or object manipulation, as a new assignment asks, we will be trying to have a plow of sorts.
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
