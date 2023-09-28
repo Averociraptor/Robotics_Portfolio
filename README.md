@@ -20,6 +20,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/26/2023 7:45 AM, Today I will be stabilizing the other front wheel so steering becomes more easy, and I will be working on building the plow as part of the assignment for an object manipulator.
 
+9/28/23 12:50 PM, Okay, I procrastinated a little bit, I will work on the plow today
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
