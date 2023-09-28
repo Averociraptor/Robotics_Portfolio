@@ -1,6 +1,6 @@
 # Avery's Robotics Portfolio
 
-Team Members: Matthew Sorensen, Avery Oremland, Corbyn Becker, Will Bond, Nash Hale, Ben Goetsch
+Team Members: Matthew Sorensen, Avery Oremland, Corbyn Becker, Will Bond, Nash Hale, Ben Goetsch *Unofficially*, Xander Gonzalez
 
 This is going to be a robot with a 2-speed manual transmission powered by 2 motors behind a friction plate clutch in order to prevent the transmission from ripping itself. This will also have front steering like a real car.
 
