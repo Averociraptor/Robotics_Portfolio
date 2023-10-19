@@ -20,9 +20,11 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 9/21/2023 8:30 AM, Decided a tensioner was unnecessary after stabilizing the axles. I also added the second wheel and finished the solid axle. We did a speed test in the halls 2 days ago and it worked until the battery ran too low and the single motor could no longer overcome the torque of the second gear. Now I have charged the battery fully and added a second motor. This won't increase speed or velocity but it will affect first-gear torque and second-gear acceleration. Today we will do a second speed test to attempt to find its top speed, which means we might need to borrow a radar gun from one of the physics teachers. In terms of tooling or object manipulation, as a new assignment asks, we will be trying to have a plow of sorts. I also made a dumb move yesterday in my attempt to get out of the school faster, I forgot to save the new program file, luckily for me and my programmer it was like 2 lines and a toggle switch in the program to reverse the motor direction. Basically, our goal today is just to make programming fixes, and I am going to make sure the axle is stable.
 
-9/26/2023 7:45 AM, Today I will be stabilizing the other front wheel so steering becomes more easy, and I will be working on building the plow as part of the assignment for an object manipulator.
+9/26/2023 7:45 AM, Today I will be stabilizing the other front wheel so steering becomes easier, and I will be working on building the plow as part of the assignment for an object manipulator.
 
 9/28/23 12:50 PM, Okay, I procrastinated a little bit, I will work on the plow today
+
+10/19/2023 12:45 PM, We gave up on the differential for now, also one of the other builders is starting to work on building a 4-speed transmission rather than our current "basic" 2-speed.
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
