@@ -28,6 +28,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 10/24/2023 11:30 AM, Once the other builder finishes, and proves the functionality of the 4-speed, we will rework motor positions, shifter systems, and basically the entire drive train. When he proves its effectiveness I will work on retrofitting the rear axle and actually add the differential in a better way. I will also be forced to reposition the rear right tire (looking at it from the back) at the moment it is actively bending that axle because of some stupid vex designed misalignment. Same parts on both sides right now, and it's still not lined up properly. So I'll fix that and then I can very easily put in the differential, with an axle coming off the transmission to a set of bevel gears which will power the gear used to run the differential.. this one is going to way infinitely more than the current 2 speed based on the sheer amount of metal and plastic being used.
 
+10/24/2023 2:03 PM, Prototype differential system and shifter sprockets are built but the 4-speed is still giving problem after problem. ETA: maybe sometime next week
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
