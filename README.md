@@ -30,6 +30,8 @@ This is going to be a robot with a 2-speed manual transmission powered by 2 moto
 
 10/24/2023 2:03 PM, Prototype differential system and shifter sprockets are built but the 4-speed is still giving problem after problem. ETA: maybe sometime next week
 
+11/07/2023 12:42 PM, the final design change is going to be the new drive train with the 4-speed.
+
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/1692995499.337287.jpg?raw=true)
 
 ![Diagram](https://github.com/Averociraptor/Robotics_Portfolio/blob/main/images/20230829_134524.jpg?raw=true)
